@@ -6,3 +6,11 @@
 4)Clean the data.
 5)Write code as per criteria for courses.
 6)Sort the ranks.
+
+
+
+
+
+final_sorted1.xlsx is my sample output.
+
+
